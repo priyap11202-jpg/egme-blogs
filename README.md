@@ -12,7 +12,7 @@ This repository contains blog posts for Emirates Global Motor Electric (EGME) fo
 ## Accessing the Blogs
 All blog posts are stored in the `/blogs/` folder.  
 You can view the EV Cars Abu Dhabi blog here:  
-[EV Cars Abu Dhabi](blogs/ev-cars-abu-dhabi.md)
+[EV Cars Abu Dhabi]
 
 ## About EGME
 EGME provides a wide range of electric and hydrogen vehicles, including cars, vans, buses, and trucks, as well as energy storage and charging solutions in the UAE.
